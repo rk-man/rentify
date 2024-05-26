@@ -1,6 +1,6 @@
 # Rentify
 
-A place where people can sell their properties and interest buyers can make the best use of it!
+A place where people can sell their properties and interested buyers can make the best use of it!
 
 ## Screenshots
 
