@@ -6,3 +6,11 @@ A place where people can sell their properties and interest buyers can make the 
 
 ![Rentify Home Page](./static/Rentify1.PNG)
 ![Adding a property](./static/Rentify2.PNG)
+
+## How to setup?
+
+1. Clone the repository
+
+2. Run `npm install` from backend and frontend.
+
+3. Replace the .env values with your own!
